@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-upgrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayyjohnson/portfolio-upgrade.git"
+  },
+  "author": "tj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayyjohnson/portfolio-upgrade/issues"
+  },
+  "homepage": "https://github.com/tayyjohnson/portfolio-upgrade#readme",
+  "dependencies": {
+    "jest": "^29.2.1",
+    "react": "^18.2.0"
+  }
+}
